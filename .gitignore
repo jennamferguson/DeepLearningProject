@@ -1,0 +1,6 @@
+*jpeg
+$jpg
+*h5
+App_test_pics/*jpeg
+App_test_pics/*jpg
+*.venv
